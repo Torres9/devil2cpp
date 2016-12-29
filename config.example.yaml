@@ -1,0 +1,8 @@
+apk_name:
+  xxxx.apk
+keystore:
+  ~/xxxx.keystore
+password:
+  xxxx
+alias:
+  xxxx
