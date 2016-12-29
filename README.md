@@ -17,6 +17,6 @@ The modern il2cpp injector.
 
 ### Requirements
 
-[Android NDK](https://developer.android.com/ndk/downloads/index.html)
-[apktool](https://ibotpeaches.github.io/Apktool/install/)
-[Android SDK](https://developer.android.com/studio/index.html#downloads)
+* [Android NDK](https://developer.android.com/ndk/downloads/index.html)
+* [apktool](https://ibotpeaches.github.io/Apktool/install/)
+* [Android SDK](https://developer.android.com/studio/index.html#downloads)
